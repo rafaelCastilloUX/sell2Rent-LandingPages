@@ -32,8 +32,8 @@ We appreciate contributions to our project. If you would like to contribute, ple
 
 ## Team
 
-- Developer Name
-- Other team members
+- Developer Enrique Garcia
+- Designer Rafael Castillo
 
 ## Confidentiality and Exclusive Use
 
